@@ -1,0 +1,24 @@
+<! DOCTYPE html >
+	< html >
+	< html >
+	< cabeza >
+	< título > Hola mundo </ título >
+	</ cabeza >
+	< font  face = " Comic Sans MS, arial, verdana " >
+	< font  color = " blanco " >
+	< body  background = " 2.png " >
+	< p > Mariory Sharisa Acevedo Santos
+	< Br >
+	6a administracion de empresas </ p >
+	< script  type = " text / javascript " >
+	documento . write ( "<p> Hola mundo </p>" )
+	</ script >
+	< noscript >
+	Su navegador no es compatible o se ha desactivado
+	JavaScript.
+	</ noscript >
+	< p > Instituto Profesional de Computación, Septiembre de 2020, Villa Nueva, Guatemala </ p >
+	</ fuente >
+	</ cuerpo >
+	</ html >
+
